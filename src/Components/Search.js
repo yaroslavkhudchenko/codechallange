@@ -1,5 +1,5 @@
 import React,{ useState, useEffect } from 'react';
-import './../Css/Search.scss';
+import './../style/Search.scss';
 import axios from 'axios';
 
 export const Search = () => {
